@@ -1,0 +1,257 @@
+---
+title: "Projects"
+author: "Sampada Pokharel"
+format: 
+  revealjs:
+    theme: solarized
+    incremental: true
+    slide-number: false
+    preview-links: auto
+    slide-tone: true
+    self-contained: true
+    footer: "Sampada Pokharel"
+    revealjs-plugins:
+      - fullscreen
+
+  
+---
+
+# Projects {background="#806040"}
+
+# Website and Quarto {background="#f8e6e4"}
+
+## What is Quarto?
+
+::: {.incremental}
+
+- Open-source scientific and technical publishing system
+- R, Python, Julia, and Observable
+- Documents can be html, pdf, word, and markdowns - can use knitr to run R code
+- Can use in RStudio, VS Code, Jupyter Lab, etc
+- Create presentations, websites, books, journal articles, and projects
+
+:::
+
+# Website Using Quarto
+
+##  {#quartoWebsite background-iframe="https://sampadapokharel.github.io/"}
+
+## Website Basics {.scrollable}
+
+
+::: {.incremental}
+
+- Very simple and easy to create
+  - Use markdowns for each page
+ ![markdown example](images/markdown.png)
+  - Can run and display codes
+- Minimal use of html and css
+- Quarto themes 
+
+::: 
+
+## Website Customization 
+
+::: {.incremental}
+
+- Create theme.scss
+  - Use css and html to personalize webpages
+- Customize fonts, colors, and icons displayed
+
+:::
+
+# OpenAlex 
+
+## What is OpenAlex?
+
+::: {.incremental}
+
+- An open catalog of scholarly papers, authors, institutions, etc.
+- Free and open-source
+- API 
+
+:::
+
+# Publications within IPS 
+
+## IPS Publication Visualization 
+
+- Publication lists through Disqover 
+- Visualize 
+- Needed to query information 
+    - Authors, concepts, publishing venue, etc
+
+## OpenAlex R packages 
+
+- 3 r packages 
+
+::: {.incremental}
+
+  1. OpenAlexR by Em Maloney 
+  2. OpenAlexR by Markus Skyttner 
+  3. OpenAlexR by Massismo Aria
+  
+::: 
+
+## OpenAlexR by Em Maloney {.scrollable}
+
+Query 
+
+::: {.incremental}
+
+  1. Work 
+	  - ID Type (DOIs,PMID, etc)
+	  - IDs
+  2. Authors
+    - Nested graph
+    ![](images/authorNetwork.png)
+
+  3. Venues
+  4. Institution 
+  5. Concepts
+	  - Bar graph
+	  ![](images/conceptsBar.png)
+
+:::
+ 
+## OpenAlexR by Markus Skyttner 
+
+::: {.incremental}
+
+- Works
+- Authors
+- Venues 
+- Institutions
+- Concepts 
+
+- Takes account of missing information 
+
+::: 
+
+## OpenAlexR by Massismo Aria
+
+::: {.incremental}
+
+- Publications
+- Authors
+- Venues
+- Institutions
+- Concepts
+
+- Has a filter to search for articles just based on concepts  
+
+::: 
+
+# Choose which package to use 
+
+## RiskMatric Package
+
+::: {.incremental}
+
+- Evaluates the quality of a package
+- Checks for 
+  - Coding best practices
+  - Documentation 
+  - Engagement
+  - Bugs
+- Scores the package out of 1
+
+:::
+
+---
+
+![OpenAlex R Package Comparision](images/riskComp.png)
+
+# Our R Package Pick 
+
+#   Em Maloney
+
+{add visualizations}
+
+# IPS Publication Visualization
+
+## Flexboard 
+
+::: {.incremental}
+
+- Similar to R markdown 
+- Makes a default page payout
+- Knitr it to see what the dashboard looks like
+- Publishing to RConnect is easy
+
+:::
+
+##  {#ipspub background-iframe="https://report.pri.bms.com/ips-pubs/"}
+
+# All Things BMS
+
+## All Things BMS 
+
+Trang Le created this repository to help with the on boarding process
+
+# R Packages 
+
+## Time Series R Package 
+
+- add info 
+
+# Future Works
+
+## Future Works
+::: {.incremental}
+
+- Time series R package 
+- Refining webpage 
+- Fixing error message openalexR package 
+  - Error message user friendly 
+  - List DOIs with errors
+  
+:::
+  
+# Acknowledgment
+
+---
+
+
+Nicole Glazer
+
+Iain Wallace
+
+Trang Le
+
+Feichen Shen
+
+Afshin Mashadi-Hossein
+
+Leslie Emery
+
+Matthew LaFave
+
+Eugen Lounkine
+
+## Links 
+
+Quarto Website
+	Personal Website 
+	Code 
+IPS Publication Dashboard
+all-things-bms
+R package 
+
+
+# Thank You!
+
+# Any Questions?
+
+
+
+
+
+
+
+
+
+
+
+
+
