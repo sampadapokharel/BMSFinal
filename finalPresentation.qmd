@@ -3,7 +3,7 @@ title: "Projects"
 author: "Sampada Pokharel"
 format: 
   revealjs:
-    theme: solarized
+    theme: [default, style.scss]
     incremental: true
     slide-number: false
     preview-links: auto
@@ -16,11 +16,11 @@ format:
   
 ---
 
-# Projects {background="#806040"}
+# Projects {background="#D5D6EA"}
 
-# Website and Quarto {background="#f8e6e4"}
+# Website and Quarto {background="#447098"}
 
-## What is Quarto?
+## What is Quarto?{background="#447098"}
 
 ::: {.incremental}
 
@@ -32,12 +32,11 @@ format:
 
 :::
 
-# Website Using Quarto
+# Website Using Quarto{background="#447098"}
 
 ##  {#quartoWebsite background-iframe="https://sampadapokharel.github.io/"}
 
 ## Website Basics {.scrollable}
-
 
 ::: {.incremental}
 
@@ -50,7 +49,7 @@ format:
 
 ::: 
 
-## Website Customization 
+## Website Customization {background="#D5D6EA"}
 
 ::: {.incremental}
 
@@ -60,9 +59,9 @@ format:
 
 :::
 
-# OpenAlex 
+# OpenAlex {background="#D5D6EA"}
 
-## What is OpenAlex?
+## What is OpenAlex? {background="#D5D6EA"}
 
 ::: {.incremental}
 
@@ -72,16 +71,16 @@ format:
 
 :::
 
-# Publications within IPS 
+# Publications within IPS {background="#D5D6EA"}
 
-## IPS Publication Visualization 
+## IPS Publication Visualization {background="#D5D6EA"}
 
 - Publication lists through Disqover 
 - Visualize 
 - Needed to query information 
     - Authors, concepts, publishing venue, etc
 
-## OpenAlex R packages 
+## OpenAlex R packages {background="#D5D6EA"}
 
 - 3 r packages 
 
@@ -104,17 +103,16 @@ Query
 	  - IDs
   2. Authors
     - Nested graph
-![](images/authorNetwork.png)
-
+![author](images/authorNetwork.png)
   3. Venues
   4. Institution 
   5. Concepts
-	  - Bar graph
+    - Bar graph
 ![](images/conceptsBar.png)
 
 :::
  
-## OpenAlexR by Markus Skyttner 
+## OpenAlexR by Markus Skyttner {background="#D5D6EA"}
 
 ::: {.incremental}
 
@@ -128,7 +126,7 @@ Query
 
 ::: 
 
-## OpenAlexR by Massismo Aria
+## OpenAlexR by Massismo Aria {background="#D5D6EA"}
 
 ::: {.incremental}
 
@@ -142,9 +140,9 @@ Query
 
 ::: 
 
-# Choose which package to use 
+# Which package to use? {background="#D5D6EA"}
 
-## RiskMatric Package
+## RiskMatric Package {background="#D5D6EA"}
 
 ::: {.incremental}
 
@@ -160,19 +158,17 @@ Query
 
 ---
 
-![OpenAlex R Package Comparision](images/riskComp.png)
+![OpenAlex R Package Comparision](images/riskComp.png) 
 
-# Our R Package Pick 
+# Our R Package Pick {background="#D5D6EA"}
 
-#   Em Maloney
+#   Em Maloney {background="#D5D6EA"}
 
-![Em's DT](images/em1.png)
-![Em's DT2](images/em2.png)
-![Em's DT3](images/em3.png)
+![](images/em2.png)
 
-# IPS Publication Visualization
+# IPS Publication Visualization {background="#D5D6EA"}
 
-## Flexboard 
+## Flexboard {background="#D5D6EA"}
 
 ::: {.incremental}
 
@@ -185,22 +181,22 @@ Query
 
 ##  {#ipspub background-iframe="https://report.pri.bms.com/ips-pubs/"}
 
-# All Things BMS
+# All Things BMS {background="#D5D6EA"}
 
-## All Things BMS 
+## All Things BMS {background="#D5D6EA"}
 
 Trang Le created this repository to help with the on boarding process
 
-# R Packages 
+# R Packages {background="#D5D6EA"}
 
-## Time Series R Package 
+## Time Series R Package {background="#D5D6EA"}
 
 - Working progress 
 - Skeleton of the package done
 
-# Future Works
+# Future Works {background="#D5D6EA"}
 
-## Future Works
+## Future Works {background="#D5D6EA"}
 ::: {.incremental}
 
 - Time series R package 
@@ -211,9 +207,7 @@ Trang Le created this repository to help with the on boarding process
   
 :::
   
-# Acknowledgment
-
----
+# Acknowledgment {background="#D5D6EA"}
 
 
 Nicole Glazer
@@ -232,19 +226,18 @@ Matthew LaFave
 
 Eugen Lounkine
 
-## Links 
+## Links {background="#D5D6EA"}
 
-Quarto Website
-	Personal Website 
-	Code 
-IPS Publication Dashboard
-all-things-bms
-R package 
+- Quarto Website
+	- [Personal Website](https://sampadapokharel.github.io/) 
+	- [Code](https://github.com/sampadapokharel/sampadapokharel.github.io) 
+- [IPS Publication Dashboard](https://report.pri.bms.com/ips-pubs/)
+- [all-things-bms](https://biogit.pri.bms.com/let20/all-things-bms)
+- [Disqover](https://disqover.web.bms.com/visual-analytics/_UID_87_c2949b34-3acf-435b-8d64-044a0222f81d_UID_)
 
+# Thank You! {background="#D5D6EA"}
 
-# Thank You!
-
-# Any Questions?
+# Any Questions? {background="#D5D6EA"}
 
 
 

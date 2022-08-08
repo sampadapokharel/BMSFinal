@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Caladea&family=Lato:wght@300&family=Mali:wght@300&family=Nunito+Sans:wght@300&display=swap');
+
+$body-bg:"#D5D6EA";
+
+/*-- scss:rules --*/
+
+.reveal .slide-background-content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #D5D6EA;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.reveal img, .reveal video, .reveal iframe {
+    max-width: 55%;
+    max-height: 45%;
+}
+
