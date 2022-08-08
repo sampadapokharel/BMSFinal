@@ -1,3 +1,4 @@
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # Final Presentation
@@ -7,7 +8,7 @@
 -   Quarto
 -   OpenAlex
 -   OpenAlex R packages
--   Flexboard
+-   Flexdashboard
 -   Data Visualization
 -   All Things BMS
 -   Other Projects

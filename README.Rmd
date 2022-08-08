@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 - Quarto 
 - OpenAlex
 - OpenAlex R packages 
-- Flexboard
+- Flexdashboard
 - Data Visualization 
 - All Things BMS
 - Other Projects 

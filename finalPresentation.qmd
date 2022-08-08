@@ -104,13 +104,13 @@ Query
 	  - IDs
   2. Authors
     - Nested graph
-    ![](images/authorNetwork.png)
+![](images/authorNetwork.png)
 
   3. Venues
   4. Institution 
   5. Concepts
 	  - Bar graph
-	  ![](images/conceptsBar.png)
+![](images/conceptsBar.png)
 
 :::
  
@@ -166,7 +166,9 @@ Query
 
 #   Em Maloney
 
-{add visualizations}
+![Em's DT](images/em1.png)
+![Em's DT2](images/em2.png)
+![Em's DT3](images/em3.png)
 
 # IPS Publication Visualization
 
@@ -193,7 +195,8 @@ Trang Le created this repository to help with the on boarding process
 
 ## Time Series R Package 
 
-- add info 
+- Working progress 
+- Skeleton of the package done
 
 # Future Works
 
