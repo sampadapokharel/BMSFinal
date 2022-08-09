@@ -3,24 +3,18 @@ title: "Projects"
 author: "Sampada Pokharel"
 format: 
   revealjs:
+    preview-links: true
     theme: [default, style.scss]
     incremental: true
     slide-number: false
-    preview-links: auto
     slide-tone: true
     self-contained: true
-    footer: "Sampada Pokharel"
-    revealjs-plugins:
-      - fullscreen
-
-  
+    #footer: "Sampada Pokharel"
 ---
-
-# Projects {background="#D5D6EA"}
 
 # Website and Quarto {background="#447098"}
 
-## What is Quarto?{background="#447098"}
+## What is Quarto?{background="#447098"} 
 
 ::: {.incremental}
 
@@ -49,7 +43,7 @@ format:
 
 ::: 
 
-## Website Customization {background="#D5D6EA"}
+## Website Customization
 
 ::: {.incremental}
 
@@ -59,9 +53,9 @@ format:
 
 :::
 
-# OpenAlex {background="#D5D6EA"}
+# OpenAlex  
 
-## What is OpenAlex? {background="#D5D6EA"}
+## What is OpenAlex? 
 
 ::: {.incremental}
 
@@ -71,16 +65,15 @@ format:
 
 :::
 
-# Publications within IPS {background="#D5D6EA"}
-
-## IPS Publication Visualization {background="#D5D6EA"}
+# Publications within IPS  
+## IPS Publication Visualization  
 
 - Publication lists through Disqover 
 - Visualize 
 - Needed to query information 
     - Authors, concepts, publishing venue, etc
 
-## OpenAlex R packages {background="#D5D6EA"}
+## OpenAlex R packages  
 
 - 3 r packages 
 
@@ -112,7 +105,7 @@ Query
 
 :::
  
-## OpenAlexR by Markus Skyttner {background="#D5D6EA"}
+## OpenAlexR by Markus Skyttner 
 
 ::: {.incremental}
 
@@ -126,7 +119,7 @@ Query
 
 ::: 
 
-## OpenAlexR by Massismo Aria {background="#D5D6EA"}
+## OpenAlexR by Massismo Aria 
 
 ::: {.incremental}
 
@@ -140,9 +133,9 @@ Query
 
 ::: 
 
-# Which package to use? {background="#D5D6EA"}
+# Which package to use?  
 
-## RiskMatric Package {background="#D5D6EA"}
+## RiskMatric Package  
 
 ::: {.incremental}
 
@@ -160,15 +153,15 @@ Query
 
 ![OpenAlex R Package Comparision](images/riskComp.png) 
 
-# Our R Package Pick {background="#D5D6EA"}
+# Our R Package Pick  
 
-#   Em Maloney {background="#D5D6EA"}
+#   Em Maloney  
 
 ![](images/em2.png)
 
-# IPS Publication Visualization {background="#D5D6EA"}
+# IPS Publication Visualization  
 
-## Flexboard {background="#D5D6EA"}
+## Flex Dashboard  
 
 ::: {.incremental}
 
@@ -181,22 +174,21 @@ Query
 
 ##  {#ipspub background-iframe="https://report.pri.bms.com/ips-pubs/"}
 
-# All Things BMS {background="#D5D6EA"}
+# All Things BMS  
 
-## All Things BMS {background="#D5D6EA"}
+## All Things BMS  
 
 Trang Le created this repository to help with the on boarding process
 
-# R Packages {background="#D5D6EA"}
+# R Packages  
 
-## Time Series R Package {background="#D5D6EA"}
-
+## Time Series R Package 
 - Working progress 
 - Skeleton of the package done
 
-# Future Works {background="#D5D6EA"}
+# Future Works  
 
-## Future Works {background="#D5D6EA"}
+## Future Works 
 ::: {.incremental}
 
 - Time series R package 
@@ -207,8 +199,9 @@ Trang Le created this repository to help with the on boarding process
   
 :::
   
-# Acknowledgment {background="#D5D6EA"}
+# Acknowledgment  
 
+___ 
 
 Nicole Glazer
 
@@ -226,7 +219,7 @@ Matthew LaFave
 
 Eugen Lounkine
 
-## Links {background="#D5D6EA"}
+## Links  
 
 - Quarto Website
 	- [Personal Website](https://sampadapokharel.github.io/) 
@@ -235,9 +228,8 @@ Eugen Lounkine
 - [all-things-bms](https://biogit.pri.bms.com/let20/all-things-bms)
 - [Disqover](https://disqover.web.bms.com/visual-analytics/_UID_87_c2949b34-3acf-435b-8d64-044a0222f81d_UID_)
 
-# Thank You! {background="#D5D6EA"}
-
-# Any Questions? {background="#D5D6EA"}
+# Thank You!  
+# Any Questions?  
 
 
 
